@@ -1,4 +1,4 @@
-package br.edu.fatepg.polimorfismo.view;
+package br.edu.fatecpg.polimorfismo.view;
 
 import br.edu.fatecpg.polimorfismo.model.*;
 
